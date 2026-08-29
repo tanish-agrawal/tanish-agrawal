@@ -24,7 +24,6 @@
 - 💻 Passionate Full Stack Developer
 - 🌱 Currently learning **System Design, DevOps & AI**
 - 🚀 Love building scalable web applications
-- ⚡ Fun Fact: I enjoy solving real-world problems through code.
 
 ---
 
@@ -41,7 +40,7 @@
 </a>
 
 <a href="https://leetcode.com/tanishagrawal1">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" height="45"/>
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" height="50"/>
 </a>
 
 <a href="mailto:agrawaltanish87@gmail.com">
@@ -56,23 +55,13 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,typescript"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript"/>
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express"/>
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase"/>
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tanish-agrawal&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
