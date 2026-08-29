@@ -39,8 +39,8 @@
 <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
 </a>
 
-<a href="https://leetcode.com/tanishagrawal1">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" height="50"/>
+<a href="https://leetcode.com/tanishagrawal1" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="50" alt="LeetCode"/>
 </a>
 
 <a href="mailto:agrawaltanish87@gmail.com">
