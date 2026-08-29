@@ -66,7 +66,6 @@
 </p>
 
 ---
-<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tanish-agrawal/tanish-agrawal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
