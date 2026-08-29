@@ -66,3 +66,14 @@
 </p>
 
 ---
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tanish-agrawal/tanish-agrawal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanish-agrawal&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+---
